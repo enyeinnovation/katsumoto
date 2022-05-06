@@ -1,0 +1,9 @@
+nav .whatsapp {
+  background-color: #055;
+  border: 1px solid #2d6;
+  font-weight: 600;
+}
+nav .whatsapp:hover {
+  background-color: #2d6;
+  border: 1px solid #2d6;
+}

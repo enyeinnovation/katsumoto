@@ -1,0 +1,21 @@
+footer {
+  margin: 30px;
+}
+
+address {
+  font-size: 0.8rem;
+  font-style: normal;
+}
+cite {
+  padding: 2rem;
+}
+cite:hover {
+  background-color: brown;
+}
+cite a {
+  text-decoration: underline;
+  border-bottom: 1px solid;
+}
+cite a:hover {
+  color: gold;
+}

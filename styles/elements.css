@@ -1,0 +1,32 @@
+a {
+  color: inherit;
+  text-decoration: none;
+}
+.fa {
+  font-size: 1rem;
+}
+.icon {
+  display: inline-block;
+  color: inherit;
+  border: 1px solid;
+  padding: 5px;
+  margin: 10px;
+}
+.btn {
+  display: block;
+  border: 1px solid #e55;
+  padding: 10px;
+  margin: 10px;
+  position: relative;
+}
+.btn:hover,
+.icon:hover {
+  background-color: #e55;
+}
+.btn i {
+  position: absolute;
+  left: 30px;
+}
+h2 {
+  color: #e55;
+}

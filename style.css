@@ -1,0 +1,14 @@
+/* @import url(https://frankgp.com/icons/icomoon/style.css); */
+/* @import url(https://frankgp.com/icons/fontawesome/6.1.css); */
+/* @import url(icomoon/style.css); */
+@import url(styles/container.css);
+@import url(styles/elements.css);
+@import url(styles/header.css);
+@import url(styles/main.css);
+@import url(styles/footer.css);
+@import url(styles/responsive.css);
+
+* {
+  /* border: 1px dashed #fffa; */
+  /* box-sizing: border-box; */
+}

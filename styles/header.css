@@ -1,0 +1,13 @@
+header img {
+  border-radius: 50%;
+  box-shadow: 0 0 0 5px #113, 0 0 0 7px #eed;
+  padding: 0.1rem;
+  background-color: #113;
+}
+header p {
+  width: 32ch;
+  margin: 1rem auto;
+}
+h1 {
+  color: #eb5d5b;
+}
