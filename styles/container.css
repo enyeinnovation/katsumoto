@@ -6,12 +6,12 @@ body {
   text-align: center;
   color: white;
   font-family: Verdana, Geneva, sans-serif;
-  font-size: 14px;
+  /* font-size: 14px; */
   font-display: optional;
 }
 
 main {
-  max-width: 360px;
+  max-width: 480px;
   background-color: #74a;
   /* background: linear-gradient(45deg, #38cf, #74ac, #f3af); */
   /* background: linear-gradient(45deg, #38cf, #74ac, #f3af); */
